@@ -144,6 +144,10 @@ img {vertical-align: middle;}
     float: right;
 }
 
+.bodyRight table tr td a {
+  text-decoration: none;
+}
+
 .bodyLeft ul {
     list-style-type: none;
 }
