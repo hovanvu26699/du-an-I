@@ -188,3 +188,20 @@ img {vertical-align: middle;}
 .footerRight table tr td {
   width: 350px;
 }
+/* css product */
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+.nav {
+    background-color: darkgray;
+}
+.in img {
+  float: left;
+}
+.in .intruc, .in .intrucright {
+  float: right;
+}
